@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0547-number-of-provinces) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -52,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
