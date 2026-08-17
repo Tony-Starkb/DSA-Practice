@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -93,5 +94,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
