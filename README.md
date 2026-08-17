@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0542-01-matrix) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0542-01-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
