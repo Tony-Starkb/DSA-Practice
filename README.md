@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0542-01-matrix](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
