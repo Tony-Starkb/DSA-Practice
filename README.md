@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Tony-Starkb/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Tony-Starkb/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -139,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
