@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0274-h-index](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0542-01-matrix](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0542-01-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0274-h-index](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
