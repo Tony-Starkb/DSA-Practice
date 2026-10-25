@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
