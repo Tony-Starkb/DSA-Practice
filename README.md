@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0274-h-index) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
