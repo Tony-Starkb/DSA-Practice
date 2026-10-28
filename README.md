@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0135-candy) |
@@ -21,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 ## Tree
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
