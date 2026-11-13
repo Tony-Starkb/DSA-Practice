@@ -1,25 +1,30 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        int n = strs.size();
-        string prefix = strs[0];
+        if (strs.empty()) return "";
 
-        for(int i=1; i<n; i++) {
-            string compWith = strs[i];
+        // Fix the first string as the reference string
+        string referenceStr = strs[0];
+
+        // Compare this reference string with the other strings one by one
+        for (int i = 1; i < strs.size(); i++) {
             int j = 0;
-            int size = min(prefix.size(), compWith.size());
-
-            while(prefix[j] == compWith[j] && j < size) {
+            
+            // Find characters that match in both strings
+            while (j < referenceStr.length() && j < strs[i].length() && referenceStr[j] == strs[i][j]) {
                 j++;
             }
 
-            prefix = prefix.substr(0, j);
+            // Update the reference string with the common part
+            referenceStr = referenceStr.substr(0, j);
+
+            // If there is nothing in common, return an empty string
+            if (referenceStr.empty()) {
+                return "";
+            }
         }
 
-        return prefix;
+        // In the end, return the reference string
+        return referenceStr;
     }
 };
-
-
-
-// || prefix[j] > size || compWith[j] > size
