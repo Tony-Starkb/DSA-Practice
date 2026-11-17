@@ -9,7 +9,7 @@ public:
 
         for (int start = 0; start <= h - n; start++) {
 
-        int j = 0;
+            int j = 0;
 
             while (j < n && haystack[start + j] == needle[j]) {
                 j++;
