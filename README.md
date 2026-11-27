@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0392-is-subsequence) |
@@ -216,5 +218,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tony-Starkb/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
